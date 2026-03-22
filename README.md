@@ -1,6 +1,6 @@
 # Real Estate Analysis: 2D Arrays & Pandas
 
-A Python script that takes real estate data stored as a raw 2D array, converts it into a Pandas DataFrame, computes total market values through vectorized operations, sorts the result in descending order, and renders a bar chart with Matplotlib. The first step into the world of high-level languages, revisiting the classic pain point of sorting a 2D array, now done the Python way.
+A Python script that takes real estate data stored as a raw 2D array, converts it into a Pandas DataFrame, computes total market values through vectorized operations, sorts the result in descending order, and renders a bar chart with Matplotlib. The first step into the world of high level languages, revisiting the classic pain point of sorting a 2D array, now done the Python way.
 
 ---
 
