@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# 1. Your raw 2D array (The Data)
+# 1. My raw 2D array (The Data)
 data = [
     ["Downtown", 15000, 120],
     ["Suburbs", 5000, 250],
